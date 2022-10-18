@@ -1,6 +1,8 @@
 # Python-Rename
 
 A tool designed to search and replace the names of objects in a scene in Maya. The tool can replace the front(prefix) or end(suffix) of the selected objects. 
+Selecting the desired objects and ticking the necessary boxes(can be all if needed)
+Unlocks the grayed out area, where you type what you want
 
 
 
