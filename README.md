@@ -13,8 +13,8 @@ How to use
 4. Press the console button 
 5. ![image](https://user-images.githubusercontent.com/50089794/196389662-94e998db-7388-4254-bc1f-f4464341e054.png)
 6. File->Open Script->open the folder where you placed the script 
-7. ![image](https://user-images.githubusercontent.com/50089794/196390039-f7efdbc7-648e-4f9b-a095-918b867e7b3b.png)
-8. when open press the play button
-9. ![image](https://user-images.githubusercontent.com/50089794/196390492-37d42a8b-6e90-4037-9220-af70b755bc08.png)
+ ![image](https://user-images.githubusercontent.com/50089794/196390039-f7efdbc7-648e-4f9b-a095-918b867e7b3b.png)
+7. when open press the play button
+![image](https://user-images.githubusercontent.com/50089794/196390492-37d42a8b-6e90-4037-9220-af70b755bc08.png)
 
 
